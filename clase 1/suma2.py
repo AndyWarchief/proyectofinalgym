@@ -1,0 +1,1 @@
+n1=input("ingrese el primer numero: ")#ingreso el primer numero
